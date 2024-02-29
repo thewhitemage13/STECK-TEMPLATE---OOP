@@ -1,0 +1,16 @@
+﻿  DEQUEUE + TEMPLATE - OOP.cpp
+D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP.cpp(38,22): warning C4018: <: несоответствие типов со знаком и без знака
+  D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP.cpp(38,22):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP.cpp(71,13):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<int>"
+  	D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP.cpp(33,7):
+  	во время компиляции функции-члена класс шаблон "void Stack<int>::Push(T)"
+          with
+          [
+              T=int
+          ]
+  		D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP\DEQUEUE + TEMPLATE - OOP.cpp(75,10):
+  		см. первую ссылку на "Stack<int>::Push" в "main"
+  
+  DEQUEUE + TEMPLATE - OOP.vcxproj -> D:\C++\C++ OOP\DEQUEUE + TEMPLATE - OOP\x64\Debug\DEQUEUE + TEMPLATE - OOP.exe
